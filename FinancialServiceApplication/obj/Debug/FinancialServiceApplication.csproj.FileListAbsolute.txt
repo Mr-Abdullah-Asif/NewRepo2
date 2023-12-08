@@ -1,0 +1,151 @@
+C:\Users\Home\source\repos\FinancialServiceApplicationSolution\FinancialServiceApplication\bin\Debug\FinancialServiceApplication.exe.config
+C:\Users\Home\source\repos\FinancialServiceApplicationSolution\FinancialServiceApplication\bin\Debug\FinancialServiceApplication.exe
+C:\Users\Home\source\repos\FinancialServiceApplicationSolution\FinancialServiceApplication\bin\Debug\FinancialServiceApplication.pdb
+C:\Users\Home\source\repos\FinancialServiceApplicationSolution\FinancialServiceApplication\obj\Debug\FinancialServiceApplication.csproj.AssemblyReference.cache
+C:\Users\Home\source\repos\FinancialServiceApplicationSolution\FinancialServiceApplication\obj\Debug\FinancialServiceApplication.Form1.resources
+C:\Users\Home\source\repos\FinancialServiceApplicationSolution\FinancialServiceApplication\obj\Debug\FinancialServiceApplication.Properties.Resources.resources
+C:\Users\Home\source\repos\FinancialServiceApplicationSolution\FinancialServiceApplication\obj\Debug\FinancialServiceApplication.csproj.GenerateResource.cache
+C:\Users\Home\source\repos\FinancialServiceApplicationSolution\FinancialServiceApplication\obj\Debug\FinancialServiceApplication.csproj.CoreCompileInputs.cache
+C:\Users\Home\source\repos\FinancialServiceApplicationSolution\FinancialServiceApplication\obj\Debug\FinancialServiceApplication.exe
+C:\Users\Home\source\repos\FinancialServiceApplicationSolution\FinancialServiceApplication\obj\Debug\FinancialServiceApplication.pdb
+C:\Users\Home\Source\Repos\Akayovwe-Okugbe\FinancialServiceApplicationSolution\FinancialServiceApplication\bin\Debug\FinancialServiceApplication.exe.config
+C:\Users\Home\Source\Repos\Akayovwe-Okugbe\FinancialServiceApplicationSolution\FinancialServiceApplication\bin\Debug\FinancialServiceApplication.exe
+C:\Users\Home\Source\Repos\Akayovwe-Okugbe\FinancialServiceApplicationSolution\FinancialServiceApplication\bin\Debug\FinancialServiceApplication.pdb
+C:\Users\Home\Source\Repos\Akayovwe-Okugbe\FinancialServiceApplicationSolution\FinancialServiceApplication\obj\Debug\FinancialServiceApplication.csproj.AssemblyReference.cache
+C:\Users\Home\Source\Repos\Akayovwe-Okugbe\FinancialServiceApplicationSolution\FinancialServiceApplication\obj\Debug\FinancialServiceApplication.Properties.Resources.resources
+C:\Users\Home\Source\Repos\Akayovwe-Okugbe\FinancialServiceApplicationSolution\FinancialServiceApplication\obj\Debug\FinancialServiceApplication.csproj.GenerateResource.cache
+C:\Users\Home\Source\Repos\Akayovwe-Okugbe\FinancialServiceApplicationSolution\FinancialServiceApplication\obj\Debug\FinancialServiceApplication.csproj.CoreCompileInputs.cache
+C:\Users\Home\Source\Repos\Akayovwe-Okugbe\FinancialServiceApplicationSolution\FinancialServiceApplication\obj\Debug\FinancialServiceApplication.exe
+C:\Users\Home\Source\Repos\Akayovwe-Okugbe\FinancialServiceApplicationSolution\FinancialServiceApplication\obj\Debug\FinancialServiceApplication.pdb
+C:\Users\Home\Source\Repos\Akayovwe-Okugbe\FinancialServiceApplicationSolution\FinancialServiceApplication\obj\Debug\FinancialServiceApplication.application.resources
+C:\Users\Home\Source\Repos\Akayovwe-Okugbe\FinancialServiceApplicationSolution\FinancialServiceApplication\bin\Debug\FinancialConsultantDB.mdf
+C:\Users\Home\Source\Repos\Akayovwe-Okugbe\FinancialServiceApplicationSolution\FinancialServiceApplication\bin\Debug\FinancialConsultantDB_log.ldf
+C:\Users\Home\Source\Repos\Akayovwe-Okugbe\FinancialServiceApplicationSolution\FinancialServiceApplication\bin\Debug\BCrypt.Net-Next.dll
+C:\Users\Home\Source\Repos\Akayovwe-Okugbe\FinancialServiceApplicationSolution\FinancialServiceApplication\bin\Debug\System.Buffers.dll
+C:\Users\Home\Source\Repos\Akayovwe-Okugbe\FinancialServiceApplicationSolution\FinancialServiceApplication\bin\Debug\System.Memory.dll
+C:\Users\Home\Source\Repos\Akayovwe-Okugbe\FinancialServiceApplicationSolution\FinancialServiceApplication\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Home\Source\Repos\Akayovwe-Okugbe\FinancialServiceApplicationSolution\FinancialServiceApplication\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Home\Source\Repos\Akayovwe-Okugbe\FinancialServiceApplicationSolution\FinancialServiceApplication\bin\Debug\BCrypt.Net-Next.xml
+C:\Users\Home\Source\Repos\Akayovwe-Okugbe\FinancialServiceApplicationSolution\FinancialServiceApplication\bin\Debug\System.Buffers.xml
+C:\Users\Home\Source\Repos\Akayovwe-Okugbe\FinancialServiceApplicationSolution\FinancialServiceApplication\bin\Debug\System.Memory.xml
+C:\Users\Home\Source\Repos\Akayovwe-Okugbe\FinancialServiceApplicationSolution\FinancialServiceApplication\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Home\Source\Repos\Akayovwe-Okugbe\FinancialServiceApplicationSolution\FinancialServiceApplication\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Home\Source\Repos\Akayovwe-Okugbe\FinancialServiceApplicationSolution\FinancialServiceApplication\obj\Debug\FinancialServiceApplication.csproj.CopyComplete
+C:\Users\HP\3D Objects\Pictures\anything\FinancialServiceApplication\bin\Debug\FinancialConsultantDB.mdf
+C:\Users\HP\3D Objects\Pictures\anything\FinancialServiceApplication\bin\Debug\FinancialConsultantDB_log.ldf
+C:\Users\HP\3D Objects\Pictures\anything\FinancialServiceApplication\bin\Debug\FinancialServiceApplication.exe.config
+C:\Users\HP\3D Objects\Pictures\anything\FinancialServiceApplication\bin\Debug\FinancialServiceApplication.exe
+C:\Users\HP\3D Objects\Pictures\anything\FinancialServiceApplication\bin\Debug\FinancialServiceApplication.pdb
+C:\Users\HP\3D Objects\Pictures\anything\FinancialServiceApplication\bin\Debug\BCrypt.Net-Next.dll
+C:\Users\HP\3D Objects\Pictures\anything\FinancialServiceApplication\bin\Debug\System.Buffers.dll
+C:\Users\HP\3D Objects\Pictures\anything\FinancialServiceApplication\bin\Debug\System.Memory.dll
+C:\Users\HP\3D Objects\Pictures\anything\FinancialServiceApplication\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\HP\3D Objects\Pictures\anything\FinancialServiceApplication\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\HP\3D Objects\Pictures\anything\FinancialServiceApplication\bin\Debug\BCrypt.Net-Next.xml
+C:\Users\HP\3D Objects\Pictures\anything\FinancialServiceApplication\bin\Debug\System.Buffers.xml
+C:\Users\HP\3D Objects\Pictures\anything\FinancialServiceApplication\bin\Debug\System.Memory.xml
+C:\Users\HP\3D Objects\Pictures\anything\FinancialServiceApplication\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\HP\3D Objects\Pictures\anything\FinancialServiceApplication\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\HP\3D Objects\Pictures\anything\FinancialServiceApplication\obj\Debug\FinancialServiceApplication.csproj.AssemblyReference.cache
+C:\Users\HP\3D Objects\Pictures\anything\FinancialServiceApplication\obj\Debug\FinancialServiceApplication.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\3D Objects\Pictures\anything\FinancialServiceApplication\obj\Debug\FinancialServiceApplication.application.resources
+C:\Users\HP\3D Objects\Pictures\anything\FinancialServiceApplication\obj\Debug\FinancialServiceApplication.Properties.Resources.resources
+C:\Users\HP\3D Objects\Pictures\anything\FinancialServiceApplication\obj\Debug\FinancialServiceApplication.csproj.GenerateResource.cache
+C:\Users\HP\3D Objects\Pictures\anything\FinancialServiceApplication\obj\Debug\FinancialServiceApplication.csproj.CoreCompileInputs.cache
+C:\Users\HP\3D Objects\Pictures\anything\FinancialServiceApplication\obj\Debug\FinancialServiceApplication.csproj.CopyComplete
+C:\Users\HP\3D Objects\Pictures\anything\FinancialServiceApplication\obj\Debug\FinancialServiceApplication.exe
+C:\Users\HP\3D Objects\Pictures\anything\FinancialServiceApplication\obj\Debug\FinancialServiceApplication.pdb
+C:\Users\Home\source\repos\Software Application\FinancialServiceApplicationSolution\FinancialServiceApplication\bin\Debug\FinancialConsultantDB.mdf
+C:\Users\Home\source\repos\Software Application\FinancialServiceApplicationSolution\FinancialServiceApplication\bin\Debug\FinancialConsultantDB_log.ldf
+C:\Users\Home\source\repos\Software Application\FinancialServiceApplicationSolution\FinancialServiceApplication\bin\Debug\FinancialServiceApplication.exe.config
+C:\Users\Home\source\repos\Software Application\FinancialServiceApplicationSolution\FinancialServiceApplication\bin\Debug\FinancialServiceApplication.exe
+C:\Users\Home\source\repos\Software Application\FinancialServiceApplicationSolution\FinancialServiceApplication\bin\Debug\FinancialServiceApplication.pdb
+C:\Users\Home\source\repos\Software Application\FinancialServiceApplicationSolution\FinancialServiceApplication\bin\Debug\BCrypt.Net-Next.dll
+C:\Users\Home\source\repos\Software Application\FinancialServiceApplicationSolution\FinancialServiceApplication\bin\Debug\System.Buffers.dll
+C:\Users\Home\source\repos\Software Application\FinancialServiceApplicationSolution\FinancialServiceApplication\bin\Debug\System.Memory.dll
+C:\Users\Home\source\repos\Software Application\FinancialServiceApplicationSolution\FinancialServiceApplication\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Home\source\repos\Software Application\FinancialServiceApplicationSolution\FinancialServiceApplication\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Home\source\repos\Software Application\FinancialServiceApplicationSolution\FinancialServiceApplication\bin\Debug\BCrypt.Net-Next.xml
+C:\Users\Home\source\repos\Software Application\FinancialServiceApplicationSolution\FinancialServiceApplication\bin\Debug\System.Buffers.xml
+C:\Users\Home\source\repos\Software Application\FinancialServiceApplicationSolution\FinancialServiceApplication\bin\Debug\System.Memory.xml
+C:\Users\Home\source\repos\Software Application\FinancialServiceApplicationSolution\FinancialServiceApplication\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Home\source\repos\Software Application\FinancialServiceApplicationSolution\FinancialServiceApplication\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Home\source\repos\Software Application\FinancialServiceApplicationSolution\FinancialServiceApplication\obj\Debug\FinancialServiceApplication.csproj.AssemblyReference.cache
+C:\Users\Home\source\repos\Software Application\FinancialServiceApplicationSolution\FinancialServiceApplication\obj\Debug\FinancialServiceApplication.application.resources
+C:\Users\Home\source\repos\Software Application\FinancialServiceApplicationSolution\FinancialServiceApplication\obj\Debug\FinancialServiceApplication.Properties.Resources.resources
+C:\Users\Home\source\repos\Software Application\FinancialServiceApplicationSolution\FinancialServiceApplication\obj\Debug\FinancialServiceApplication.csproj.GenerateResource.cache
+C:\Users\Home\source\repos\Software Application\FinancialServiceApplicationSolution\FinancialServiceApplication\obj\Debug\FinancialServiceApplication.csproj.CoreCompileInputs.cache
+C:\Users\Home\source\repos\Software Application\FinancialServiceApplicationSolution\FinancialServiceApplication\obj\Debug\FinancialServiceApplication.csproj.CopyComplete
+C:\Users\Home\source\repos\Software Application\FinancialServiceApplicationSolution\FinancialServiceApplication\obj\Debug\FinancialServiceApplication.exe
+C:\Users\Home\source\repos\Software Application\FinancialServiceApplicationSolution\FinancialServiceApplication\obj\Debug\FinancialServiceApplication.pdb
+C:\Users\HP\3D Objects\Pictures\anything\New folder\FinancialServiceApplication\bin\Debug\FinancialConsultantDB.mdf
+C:\Users\HP\3D Objects\Pictures\anything\New folder\FinancialServiceApplication\bin\Debug\FinancialConsultantDB_log.ldf
+C:\Users\HP\3D Objects\Pictures\anything\New folder\FinancialServiceApplication\bin\Debug\FinancialServiceApplication.exe.config
+C:\Users\HP\3D Objects\Pictures\anything\New folder\FinancialServiceApplication\bin\Debug\FinancialServiceApplication.exe
+C:\Users\HP\3D Objects\Pictures\anything\New folder\FinancialServiceApplication\bin\Debug\FinancialServiceApplication.pdb
+C:\Users\HP\3D Objects\Pictures\anything\New folder\FinancialServiceApplication\bin\Debug\BCrypt.Net-Next.dll
+C:\Users\HP\3D Objects\Pictures\anything\New folder\FinancialServiceApplication\bin\Debug\System.Buffers.dll
+C:\Users\HP\3D Objects\Pictures\anything\New folder\FinancialServiceApplication\bin\Debug\System.Memory.dll
+C:\Users\HP\3D Objects\Pictures\anything\New folder\FinancialServiceApplication\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\HP\3D Objects\Pictures\anything\New folder\FinancialServiceApplication\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\HP\3D Objects\Pictures\anything\New folder\FinancialServiceApplication\bin\Debug\BCrypt.Net-Next.xml
+C:\Users\HP\3D Objects\Pictures\anything\New folder\FinancialServiceApplication\bin\Debug\System.Buffers.xml
+C:\Users\HP\3D Objects\Pictures\anything\New folder\FinancialServiceApplication\bin\Debug\System.Memory.xml
+C:\Users\HP\3D Objects\Pictures\anything\New folder\FinancialServiceApplication\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\HP\3D Objects\Pictures\anything\New folder\FinancialServiceApplication\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\HP\3D Objects\Pictures\anything\New folder\FinancialServiceApplication\obj\Debug\FinancialServiceApplication.csproj.AssemblyReference.cache
+C:\Users\HP\3D Objects\Pictures\anything\New folder\FinancialServiceApplication\obj\Debug\FinancialServiceApplication.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\3D Objects\Pictures\anything\New folder\FinancialServiceApplication\obj\Debug\FinancialServiceApplication.application.resources
+C:\Users\HP\3D Objects\Pictures\anything\New folder\FinancialServiceApplication\obj\Debug\FinancialServiceApplication.Properties.Resources.resources
+C:\Users\HP\3D Objects\Pictures\anything\New folder\FinancialServiceApplication\obj\Debug\FinancialServiceApplication.csproj.GenerateResource.cache
+C:\Users\HP\3D Objects\Pictures\anything\New folder\FinancialServiceApplication\obj\Debug\FinancialServiceApplication.csproj.CoreCompileInputs.cache
+C:\Users\HP\3D Objects\Pictures\anything\New folder\FinancialServiceApplication\obj\Debug\FinancialServiceApplication.csproj.CopyComplete
+C:\Users\HP\3D Objects\Pictures\anything\New folder\FinancialServiceApplication\obj\Debug\FinancialServiceApplication.exe
+C:\Users\HP\3D Objects\Pictures\anything\New folder\FinancialServiceApplication\obj\Debug\FinancialServiceApplication.pdb
+C:\Users\Home\source\repos\CitiSoft\FinancialServiceApplicationSolution\FinancialServiceApplication\bin\Debug\FinancialConsultantDB.mdf
+C:\Users\Home\source\repos\CitiSoft\FinancialServiceApplicationSolution\FinancialServiceApplication\bin\Debug\FinancialConsultantDB_log.ldf
+C:\Users\Home\source\repos\CitiSoft\FinancialServiceApplicationSolution\FinancialServiceApplication\bin\Debug\FinancialServiceApplication.exe.config
+C:\Users\Home\source\repos\CitiSoft\FinancialServiceApplicationSolution\FinancialServiceApplication\bin\Debug\FinancialServiceApplication.exe
+C:\Users\Home\source\repos\CitiSoft\FinancialServiceApplicationSolution\FinancialServiceApplication\bin\Debug\FinancialServiceApplication.pdb
+C:\Users\Home\source\repos\CitiSoft\FinancialServiceApplicationSolution\FinancialServiceApplication\bin\Debug\BCrypt.Net-Next.dll
+C:\Users\Home\source\repos\CitiSoft\FinancialServiceApplicationSolution\FinancialServiceApplication\bin\Debug\System.Buffers.dll
+C:\Users\Home\source\repos\CitiSoft\FinancialServiceApplicationSolution\FinancialServiceApplication\bin\Debug\System.Memory.dll
+C:\Users\Home\source\repos\CitiSoft\FinancialServiceApplicationSolution\FinancialServiceApplication\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Home\source\repos\CitiSoft\FinancialServiceApplicationSolution\FinancialServiceApplication\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Home\source\repos\CitiSoft\FinancialServiceApplicationSolution\FinancialServiceApplication\bin\Debug\BCrypt.Net-Next.xml
+C:\Users\Home\source\repos\CitiSoft\FinancialServiceApplicationSolution\FinancialServiceApplication\bin\Debug\System.Buffers.xml
+C:\Users\Home\source\repos\CitiSoft\FinancialServiceApplicationSolution\FinancialServiceApplication\bin\Debug\System.Memory.xml
+C:\Users\Home\source\repos\CitiSoft\FinancialServiceApplicationSolution\FinancialServiceApplication\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Home\source\repos\CitiSoft\FinancialServiceApplicationSolution\FinancialServiceApplication\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Home\source\repos\CitiSoft\FinancialServiceApplicationSolution\FinancialServiceApplication\obj\Debug\FinancialServiceApplication.csproj.AssemblyReference.cache
+C:\Users\Home\source\repos\CitiSoft\FinancialServiceApplicationSolution\FinancialServiceApplication\obj\Debug\FinancialServiceApplication.application.resources
+C:\Users\Home\source\repos\CitiSoft\FinancialServiceApplicationSolution\FinancialServiceApplication\obj\Debug\FinancialServiceApplication.Properties.Resources.resources
+C:\Users\Home\source\repos\CitiSoft\FinancialServiceApplicationSolution\FinancialServiceApplication\obj\Debug\FinancialServiceApplication.csproj.GenerateResource.cache
+C:\Users\Home\source\repos\CitiSoft\FinancialServiceApplicationSolution\FinancialServiceApplication\obj\Debug\FinancialServiceApplication.csproj.CoreCompileInputs.cache
+C:\Users\Home\source\repos\CitiSoft\FinancialServiceApplicationSolution\FinancialServiceApplication\obj\Debug\FinancialServiceApplication.csproj.CopyComplete
+C:\Users\Home\source\repos\CitiSoft\FinancialServiceApplicationSolution\FinancialServiceApplication\obj\Debug\FinancialServiceApplication.exe
+C:\Users\Home\source\repos\CitiSoft\FinancialServiceApplicationSolution\FinancialServiceApplication\obj\Debug\FinancialServiceApplication.pdb
+C:\Users\Rizwan\Downloads\FinancialServiceApplicationSolution-main\FinancialServiceApplicationSolution-main\FinancialServiceApplication\obj\Debug\FinancialServiceApplication.application.resources
+C:\Users\Rizwan\Downloads\FinancialServiceApplicationSolution-main\FinancialServiceApplicationSolution-main\FinancialServiceApplication\obj\Debug\FinancialServiceApplication.Properties.Resources.resources
+C:\Users\Rizwan\Downloads\FinancialServiceApplicationSolution-main\FinancialServiceApplicationSolution-main\FinancialServiceApplication\obj\Debug\FinancialServiceApplication.csproj.GenerateResource.Cache
+C:\Users\Rizwan\Downloads\FinancialServiceApplicationSolution-main\FinancialServiceApplicationSolution-main\FinancialServiceApplication\bin\Debug\FinancialServiceApplication.exe.config
+C:\Users\Rizwan\Downloads\FinancialServiceApplicationSolution-main\FinancialServiceApplicationSolution-main\FinancialServiceApplication\bin\Debug\FinancialConsultantDB.mdf
+C:\Users\Rizwan\Downloads\FinancialServiceApplicationSolution-main\FinancialServiceApplicationSolution-main\FinancialServiceApplication\bin\Debug\FinancialConsultantDB_log.ldf
+C:\Users\Rizwan\Downloads\FinancialServiceApplicationSolution-main\FinancialServiceApplicationSolution-main\FinancialServiceApplication\bin\Debug\FinancialServiceApplication.exe
+C:\Users\Rizwan\Downloads\FinancialServiceApplicationSolution-main\FinancialServiceApplicationSolution-main\FinancialServiceApplication\bin\Debug\FinancialServiceApplication.pdb
+C:\Users\Rizwan\Downloads\FinancialServiceApplicationSolution-main\FinancialServiceApplicationSolution-main\FinancialServiceApplication\bin\Debug\BCrypt.Net-Next.dll
+C:\Users\Rizwan\Downloads\FinancialServiceApplicationSolution-main\FinancialServiceApplicationSolution-main\FinancialServiceApplication\bin\Debug\System.Buffers.dll
+C:\Users\Rizwan\Downloads\FinancialServiceApplicationSolution-main\FinancialServiceApplicationSolution-main\FinancialServiceApplication\bin\Debug\System.Memory.dll
+C:\Users\Rizwan\Downloads\FinancialServiceApplicationSolution-main\FinancialServiceApplicationSolution-main\FinancialServiceApplication\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Rizwan\Downloads\FinancialServiceApplicationSolution-main\FinancialServiceApplicationSolution-main\FinancialServiceApplication\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Rizwan\Downloads\FinancialServiceApplicationSolution-main\FinancialServiceApplicationSolution-main\FinancialServiceApplication\bin\Debug\BCrypt.Net-Next.xml
+C:\Users\Rizwan\Downloads\FinancialServiceApplicationSolution-main\FinancialServiceApplicationSolution-main\FinancialServiceApplication\bin\Debug\System.Buffers.xml
+C:\Users\Rizwan\Downloads\FinancialServiceApplicationSolution-main\FinancialServiceApplicationSolution-main\FinancialServiceApplication\bin\Debug\System.Memory.xml
+C:\Users\Rizwan\Downloads\FinancialServiceApplicationSolution-main\FinancialServiceApplicationSolution-main\FinancialServiceApplication\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Rizwan\Downloads\FinancialServiceApplicationSolution-main\FinancialServiceApplicationSolution-main\FinancialServiceApplication\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Rizwan\Downloads\FinancialServiceApplicationSolution-main\FinancialServiceApplicationSolution-main\FinancialServiceApplication\obj\Debug\FinancialServiceApplication.csproj.AssemblyReference.cache
+C:\Users\Rizwan\Downloads\FinancialServiceApplicationSolution-main\FinancialServiceApplicationSolution-main\FinancialServiceApplication\obj\Debug\FinancialServiceApplication.csproj.SuggestedBindingRedirects.cache
+C:\Users\Rizwan\Downloads\FinancialServiceApplicationSolution-main\FinancialServiceApplicationSolution-main\FinancialServiceApplication\obj\Debug\FinancialServiceApplication.csproj.CoreCompileInputs.cache
+C:\Users\Rizwan\Downloads\FinancialServiceApplicationSolution-main\FinancialServiceApplicationSolution-main\FinancialServiceApplication\obj\Debug\FinancialServiceApplication.csproj.CopyComplete
+C:\Users\Rizwan\Downloads\FinancialServiceApplicationSolution-main\FinancialServiceApplicationSolution-main\FinancialServiceApplication\obj\Debug\FinancialServiceApplication.exe
+C:\Users\Rizwan\Downloads\FinancialServiceApplicationSolution-main\FinancialServiceApplicationSolution-main\FinancialServiceApplication\obj\Debug\FinancialServiceApplication.pdb
